@@ -1,4 +1,4 @@
-Milanesas de berenjena
+# Milanesas de berenjena
 ## Ingredientes
 - Berenjena 1 unidad
 - Sal gruesa un puñado
