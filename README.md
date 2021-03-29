@@ -1,5 +1,5 @@
 ## Recetario 
-# Vamos a poner en práctica lo que aprendimos sobre Github compartiendo recetas acá
+# Durante mi experiencia como Tech Sourcer en Avature, di una clase sobre Github para no programadores. Para poner en práctica lo aprendido, vamos a compartir nuestras recetas en este recetario
 :pizza: :hamburger: :fries: :poultry_leg: :meat_on_bone: :spaghetti::curry::sushi: :ramen: :doughnut:
 :cake: :cookie::chocolate_bar::candy::apple::green_apple::tangerine::lemon::cherries::banana:
 
